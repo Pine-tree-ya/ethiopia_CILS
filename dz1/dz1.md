@@ -39,4 +39,4 @@ _Это_ _событие_ _полностью_ _____ _его_.
 
 2.[ссылка на таблицу](https://docs.google.com/spreadsheets/d/1MUSJSY-e47BwR9S_IjW09yYc7WMxB7BQ_NAQLyahYOQ/edit?usp=sharing)
 
->спасибо за внимание< 
+>спасибо за внимание 
