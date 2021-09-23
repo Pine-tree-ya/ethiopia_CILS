@@ -1,3 +1,2 @@
 # ethiopia_CILS
-
-**NIS homeworks Olga Sosnitskaya
+NIS homeworks Olga Sosnitskaya
