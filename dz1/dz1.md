@@ -35,9 +35,9 @@ _Это_ _событие_ _полностью_ _____ _его_.
 **к данному контексту наиболее применительны такие синонимы семантического поля МЕНЯТЬ как изменить и переменить, остальные же синонимы полностью изменят смысл фразы** 
 
 ******************
-##### как выглядел опрос:
+##### Как выглядел опрос:
 ![пример вопроса из google form](https://sun9-82.userapi.com/impg/nDEYmhwk9U1RiYBsfpwVr7eDhRic2HU9kBuAWQ/Z2ZZkoFpIi0.jpg?size=767x389&quality=96&sign=33ad463e365798eb0123984ced4d3bd2&type=album)
-###### ссылки:
+###### Ссылки:
 
 1.[ссылка на опрос](https://docs.google.com/forms/d/e/1FAIpQLSfM7dvtDUXtrnfw0qYOQ5e7bVsx-H9C9Zgxx1SfcgU2kynfdA/viewform?usp=sf_link)
 
